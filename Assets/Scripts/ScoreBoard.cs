@@ -26,6 +26,7 @@ public class ScoreBoard : MonoBehaviour {
 
     void DisplayScore()
     {
+        // CHANGE C
         scoreText.text = score.ToString();
     }
 
